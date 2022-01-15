@@ -19,3 +19,5 @@ Problem 4: Understanding backdoors
 Problem 5: Generating Fake Videos
 
 (Easy) Use existing DeepFake models to create fake videos.
+
+MORE INFO: PA1-AI.pdf
